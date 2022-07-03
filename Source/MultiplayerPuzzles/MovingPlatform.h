@@ -36,5 +36,5 @@ private:
 
 
 	UPROPERTY(EditAnywhere)
-		int ActiveTriggers = 1;
+	int ActiveTriggers = 1;
 };
